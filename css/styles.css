@@ -1,0 +1,56 @@
+/* Color Palette
+#1D3557 - Dark Blue
+#457B9D - Medium Blue
+#A8DADC - Light Blue
+#F1FAEE - Off White
+
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    background-color: #F1FAEE;
+    font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 28px;
+}
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 600;
+}
+/* Header & Footer 
+------------------------------------*/
+
+header, footer {
+    background-color: #1D3557;
+    color: #F1FAEE;
+}
+
+
+/* Work Experience
+------------------------------------*/
+section {
+    background-color: #A8DADC;
+}
+
+
+
+/* Education
+------------------------------------*/
+section:last-of-type {
+    background-color: #457B9D;
+    color: #F1FAEE;
+}
