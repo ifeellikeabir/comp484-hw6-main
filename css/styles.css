@@ -51,6 +51,13 @@ section {
 /* Education
 ------------------------------------*/
 section:last-of-type {
-    background-color: #457B9D;
-    color: #F1FAEE;
+    background-color: #5d8ac9;
+    color: #0f080c;
+}
+footer a {
+    color: #51888c;
+}
+
+footer a:hover {
+    color: #606666;
 }
