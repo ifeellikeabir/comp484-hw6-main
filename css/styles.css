@@ -9,8 +9,12 @@
 /* Global styles 
 ------------------------------------*/
 body {
+    margin: 0;
     background-color: #F1FAEE;
     font-family: "Roboto", sans-serif;
+}
+header, main section, footer {
+    padding: 20px;
 }
 
 h1, h2, h3 {
@@ -37,6 +41,14 @@ h2 {
 header, footer {
     background-color: #1D3557;
     color: #F1FAEE;
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center 30%;
+    border-radius: 50%;
 }
 
 
